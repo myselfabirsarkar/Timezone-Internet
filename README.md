@@ -30,7 +30,7 @@ Global DateTime Fetcher is a simple yet powerful Android application designed to
 #### Technical Details: 🔎
 
 - **Platform**: Android
-- **Languages**: Java, XML
+- **Languages**: Java, XML, JSON
 - **API**: Utilizes the World Time API to fetch current time data
 - **Network Requests**: Implemented using the Volley library for efficient network management
 - **UI Components**: Includes EditText for user input, Button for triggering the fetch, ProgressBar for loading indication, and TextView for displaying results
