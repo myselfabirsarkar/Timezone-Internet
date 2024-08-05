@@ -1,12 +1,11 @@
 # Timezone-Internet
-📲 A Global DateTime Fetcher (Timezone-Internet) app Built Using Android Studio
+📲 **A Global DateTime Fetcher** (Timezone-Internet) app Built Using Android Studio
 
 # Introduction
-### Description / About This App
 
-**World Time Fetcher**
+**Global DateTime Fetcher**
 
-World Time Fetcher is a simple yet powerful Android application designed to provide users with the current date and time for any specified timezone around the globe. By leveraging the World Time API, this app allows users to quickly and accurately fetch the local time in any region, making it an essential tool for travelers, international business professionals, and anyone who needs to keep track of time across different time zones.
+Global DateTime Fetcher is a simple yet powerful Android application designed to provide users with the current date and time for any specified timezone around the globe. By leveraging the World Time API, this app allows users to quickly and accurately fetch the local time in any region, making it an essential tool for travelers, international business professionals, and anyone who needs to keep track of time across different time zones.
 
 #### Key Features:
 
@@ -18,7 +17,7 @@ World Time Fetcher is a simple yet powerful Android application designed to prov
 
 #### How to Use:
 
-1. **Open the App**: Launch the World Time Fetcher on your Android device.
+1. **Open the App**: Launch the Timezone Internet on your Android device.
 2. **Enter Continent**: Type the name of the continent (e.g., Europe, Asia) in the first input field.
 3. **Enter Timezone**: Type the specific timezone (e.g., London, Tokyo) in the second input field.
 4. **Fetch Time**: Click the button labeled "Get Time" to fetch the current date and time for the specified timezone.
@@ -37,4 +36,4 @@ World Time Fetcher is a simple yet powerful Android application designed to prov
 - **Historical Data**: Providing options to fetch historical time data for specified timezones.
 - **Custom Themes**: Allowing users to customize the app's appearance with different themes.
 
-World Time Fetcher is your go-to app for quick and reliable timezone information, ensuring you stay on top of global time differences effortlessly. Download now and experience the convenience of having accurate world time at your fingertips!
+Global DateTime Fetcher is your go-to app for quick and reliable timezone information, ensuring you stay on top of global time differences effortlessly. Download now and experience the convenience of having accurate world time at your fingertips!
