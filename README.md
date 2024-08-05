@@ -23,7 +23,9 @@ Global DateTime Fetcher is a simple yet powerful Android application designed to
 4. **Fetch Time**: Click the button labeled "Get Time" to fetch the current date and time for the specified timezone.
 5. **View Results**: The app will display the current date and time in a clear and readable format, including an AM/PM indicator.
 
-<img src="https://github.com/user-attachments/assets/c2f78c76-7e22-44cd-8141-253af4b9e689" width="365" height="550">
+#### Demonstration:
+
+<img src="https://github.com/user-attachments/assets/c2f78c76-7e22-44cd-8141-253af4b9e689" width="350" height="550">
 
 #### Technical Details:
 
