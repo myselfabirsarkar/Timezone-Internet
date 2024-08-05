@@ -25,7 +25,7 @@ Global DateTime Fetcher is a simple yet powerful Android application designed to
 
 ### Demonstration: ⬇️
 
-<img src="https://github.com/user-attachments/assets/c2f78c76-7e22-44cd-8141-253af4b9e689" width="325" height="550">
+<img src="https://github.com/user-attachments/assets/c2f78c76-7e22-44cd-8141-253af4b9e689" width="300" height="550">
 
 #### Technical Details: 🔎
 
