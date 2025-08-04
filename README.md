@@ -42,3 +42,8 @@ Global DateTime Fetcher is a simple yet powerful Android application designed to
 - **Custom Themes**: Allowing users to customize the app's appearance with different themes.
 
 Global DateTime Fetcher is your go-to app for quick and reliable timezone information, ensuring you stay on top of global time differences effortlessly. Download now and experience the convenience of having accurate world time at your fingertips!🌐
+
+<br>&nbsp;<br>
+<p align="center">
+  <b>Thank You!</b>
+</p>
